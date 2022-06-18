@@ -18,8 +18,8 @@ To write a program to implement the SVM For Spam Mail Detection.
 ## Program:
 ~~~
 Program to implement the SVM For Spam Mail Detection..
-Developed by: H.Syed Abdul Wasih
-Register Number: 212221240057 
+Developed by: Ragul AC
+Register Number: 212221240042 
 ~~~
 ~~~
 import pandas as pd
@@ -46,17 +46,17 @@ accuracy
 ~~~
 ## Output:
 ### Data.head():
-![output](./img/1.png)
+![output](1.png)
 ### Data.info():
-![output](./img/2.png)
+![output](2.png)
 ### Data.isnull().sum():
-![output](./img/3.png)
+![output](3.png)
 ### svc.fit:
-![output](./img/4.png)
+![output](4.png)
 ### Y_Pred:
-![output](./img/5.png)
+![output](5.png)
 ### Accuracy:
-![output](./img/6.png)
+![output](6.png)
 
 
 ## Result:
